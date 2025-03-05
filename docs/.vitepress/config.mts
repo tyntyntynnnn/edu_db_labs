@@ -20,7 +20,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: "MIT Licensed | Copyright © 2025 TockePie"
+      copyright: "MIT Licensed | Copyright © 2025 max0nee"
     },
 
     search: {
