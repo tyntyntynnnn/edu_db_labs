@@ -3,13 +3,16 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © [2025] [max0nee]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Пашко Максим [pashko.maxim@lll.kpi.ua, https://t.me/Max0neee]**
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Голуб Денис [denisgolub2412@gmail.com, https://t.me/globus2412]**
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Бурлій Андрій [burliy.andriy@lll.kpi.ua, https://t.me/andriyburliy]**
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Омельченко Богдан [omelchenko.bohdan@lll.kpi.ua, https://t.me/lilbodyn]**
 
 
 **Керівник**
