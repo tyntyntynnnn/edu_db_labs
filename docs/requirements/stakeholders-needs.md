@@ -22,7 +22,17 @@
 
 ### Посилання
 
-*[Розділ містить повний список всіх документів, про які згадується.]*
+1. [Дані](https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D1%96)
+2. [Таблиця](https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F_(%D0%B1%D0%B0%D0%B7%D0%B8_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85))
+3. [Запит](https://www.kievoit.ippo.kubg.edu.ua/kievoit/2012/25/25.html)
+4. [CSV](https://uk.wikipedia.org/wiki/CSV)
+5. [JSON](https://uk.wikipedia.org/wiki/JSON)
+6. [SQL](https://uk.wikipedia.org/wiki/SQL)
+7. [NoSQL](https://uk.wikipedia.org/wiki/NoSQL)
+8. [Великий обсяг даних](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96_%D0%B4%D0%B0%D0%BD%D1%96)
+9. [Стандартизація даних](https://profisee.com/blog/what-is-data-standardization)
+10. [Анонімізація даних](https://en.wikipedia.org/wiki/Data_anonymization)
+11. [Візуалізація даних](https://en.wikipedia.org/wiki/Data_and_information_visualization)
 
 
 ## Короткий зміст
