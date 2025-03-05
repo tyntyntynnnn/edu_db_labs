@@ -8,6 +8,7 @@
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 ' Налаштування стилів акторів
@@ -70,6 +71,7 @@ footer
     Модель прецедентів для зареєстрованого користувача. НТУУ КПІ ім. І. Сікорського Київ-2024
 endfooter
 @enduml
+
 </center>
 
 
@@ -81,6 +83,7 @@ endfooter
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 ' Налаштування стилів акторів
@@ -116,6 +119,7 @@ footer
 endfooter
 
 @enduml
+
 </center>
 
 
@@ -127,6 +131,7 @@ endfooter
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 ' Налаштування стилів акторів
@@ -160,6 +165,7 @@ footer
 endfooter
 
 @enduml
+
 </center>
 
 
@@ -171,6 +177,7 @@ endfooter
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 ' Налаштування стилів акторів
@@ -202,6 +209,7 @@ footer
 endfooter
 
 @enduml
+
 </center>
 
 ### 5. Схема взаємодії адміністратора системи
@@ -212,6 +220,7 @@ endfooter
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 ' Налаштування стилів акторів
@@ -249,6 +258,7 @@ footer
 endfooter
 
 @enduml
+
 </center>
 
 
@@ -269,6 +279,7 @@ endfooter
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Користувач|
@@ -304,6 +315,7 @@ end note
 stop;
 
 @enduml
+
 </center>
 
 ### 2. Сценарій Прибрати дані
@@ -323,6 +335,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Адміністратор|
@@ -359,6 +372,7 @@ end note
 
 stop;
 @enduml
+
 </center>
 
 ### 3. Сценарій Додати дані
@@ -378,6 +392,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Адміністратор|
@@ -414,6 +429,7 @@ end note
 
 stop;
 @enduml
+
 </center>
 
 ### 4. Сценарій Оновлення пароля
@@ -433,6 +449,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Користувач|
@@ -463,6 +480,7 @@ end note
 
 stop;
 @enduml
+
 </center>
 
 ### 5. Сценарій Перегляд статистики використання
@@ -482,6 +500,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Адміністратор|
@@ -503,6 +522,7 @@ start;
 stop;
 
 @enduml
+
 </center>
 
 
@@ -523,6 +543,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Адміністратор|
@@ -544,6 +565,7 @@ start;
 stop;
 
 @enduml
+
 </center>
 
 
@@ -564,6 +586,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Адміністратор|
@@ -580,6 +603,7 @@ start;
 stop;
 
 @enduml
+
 </center>
 
 
@@ -600,6 +624,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Дослідник|
@@ -624,6 +649,7 @@ end note
 stop;
 
 @enduml
+
 </center>
 
 
@@ -644,6 +670,7 @@ stop;
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
+
 @startuml
 
 |Експерт|
@@ -660,4 +687,5 @@ start;
 stop;
 
 @enduml
+
 </center>
