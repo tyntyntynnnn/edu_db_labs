@@ -17,6 +17,12 @@ footer: "ECL 2.0 Licensed | Copyright © [2025] [max0nee]"
 
 *студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Омельченко Богдан [omelchenko.bohdan@lll.kpi.ua], [Telegram](https://t.me/lilbodyn)**
 
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Шатиленко Єгор [shatylenko.yehor@lll.kpi.ua], [Telegram](https://t.me/shbdkshbdkk)**
+
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Кривченко Дмитро [kryvchenko.dmytro@lll.kpi.ua], [Telegram](https://t.me/reynettly)**
+
+*студент 2-го курсу, групи ІО-32*<span padding-right:5em></span> **Водоп'янов Ярослав [vodopyanov.yaroslav@lll.kpi.ua], [Telegram](https://t.me/Yarikgiven)**
+
 
 **Керівник**
 
