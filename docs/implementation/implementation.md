@@ -153,7 +153,9 @@ public class Main {
 
 ## Скріншоти роботи
 
+Додавання тестового користувача
 ![Diagram](added-user.png)
+Результат додавання у таблиці
 ![Diagram](result-in-sql.png)
 
 ---
