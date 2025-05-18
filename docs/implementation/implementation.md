@@ -153,8 +153,8 @@ public class Main {
 
 ## Скріншоти роботи
 
-[!Diagram](added-user.png)
-[!Diagram](result-in-sql.png)
+![Diagram](added-user.png)
+![Diagram](result-in-sql.png)
 
 ---
 
