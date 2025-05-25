@@ -39,7 +39,7 @@ export default defineConfig({
               {
                 text: "Потреби зацікавлених сторін",
                 link: "/requirements/stakeholders-needs",
-              },
+              } ,
             ],
           },
           {
@@ -56,7 +56,7 @@ export default defineConfig({
           },
           {
             text: "Реалізація об'єктно-реляційного відображення",
-            link: "/implementation/implementation",
+            link: "/implementation/implementation(Category)",
           },
           {
             text: "Тестування працездатності системи",
@@ -71,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/Th1sMaxOn/edu_db_labs" },
+      { icon: "github", link: "https://github.com/tyntyntynnnn/edu_db_labs" },
     ],
   },
 
